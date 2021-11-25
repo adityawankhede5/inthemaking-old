@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/inthemaking/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/inthemaking/static/js/main.add79ea9.chunk.js",
-    "main.js.map": "/inthemaking/static/js/main.add79ea9.chunk.js.map",
+    "main.js": "/inthemaking/static/js/main.9364023f.chunk.js",
+    "main.js.map": "/inthemaking/static/js/main.9364023f.chunk.js.map",
     "runtime-main.js": "/inthemaking/static/js/runtime-main.af13c333.js",
     "runtime-main.js.map": "/inthemaking/static/js/runtime-main.af13c333.js.map",
-    "static/js/2.8a87b184.chunk.js": "/inthemaking/static/js/2.8a87b184.chunk.js",
-    "static/js/2.8a87b184.chunk.js.map": "/inthemaking/static/js/2.8a87b184.chunk.js.map",
+    "static/js/2.4146c5fd.chunk.js": "/inthemaking/static/js/2.4146c5fd.chunk.js",
+    "static/js/2.4146c5fd.chunk.js.map": "/inthemaking/static/js/2.4146c5fd.chunk.js.map",
     "static/js/3.e53d276a.chunk.js": "/inthemaking/static/js/3.e53d276a.chunk.js",
     "static/js/3.e53d276a.chunk.js.map": "/inthemaking/static/js/3.e53d276a.chunk.js.map",
     "index.html": "/inthemaking/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/inthemaking/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.8a87b184.chunk.js.LICENSE.txt": "/inthemaking/static/js/2.8a87b184.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/inthemaking/static/media/logo.6ce24c58.svg"
+    "static/js/2.4146c5fd.chunk.js.LICENSE.txt": "/inthemaking/static/js/2.4146c5fd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.af13c333.js",
-    "static/js/2.8a87b184.chunk.js",
+    "static/js/2.4146c5fd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.add79ea9.chunk.js"
+    "static/js/main.9364023f.chunk.js"
   ]
 }
