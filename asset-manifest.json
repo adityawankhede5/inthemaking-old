@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/inthemaking/static/css/main.97ef48b7.chunk.css",
-    "main.js": "/inthemaking/static/js/main.2c2260ec.chunk.js",
-    "main.js.map": "/inthemaking/static/js/main.2c2260ec.chunk.js.map",
+    "main.js": "/inthemaking/static/js/main.d0b64483.chunk.js",
+    "main.js.map": "/inthemaking/static/js/main.d0b64483.chunk.js.map",
     "runtime-main.js": "/inthemaking/static/js/runtime-main.04ca49fd.js",
     "runtime-main.js.map": "/inthemaking/static/js/runtime-main.04ca49fd.js.map",
     "static/js/2.f7a40b2f.chunk.js": "/inthemaking/static/js/2.f7a40b2f.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.04ca49fd.js",
     "static/js/2.f7a40b2f.chunk.js",
     "static/css/main.97ef48b7.chunk.css",
-    "static/js/main.2c2260ec.chunk.js"
+    "static/js/main.d0b64483.chunk.js"
   ]
 }
